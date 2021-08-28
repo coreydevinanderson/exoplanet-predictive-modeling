@@ -1,6 +1,3 @@
-# machine-learning-challenge
-Machine learning exercises
-
 ### This repository contains predictive models in Python for classifying Exoplanets based on data from the NASA Kepler space telescope.
 
 I used the "kepoi_disposition" as the target. After removing all "CANDIDATE" rows, there were two levels: CONFIRMED (positive) & FALSE POSITIVE (negative).
